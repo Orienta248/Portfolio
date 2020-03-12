@@ -1,15 +1,26 @@
 # My Portfolio Website
-This is part of the project to improve my understanding of Sass.
+A simple site built to showcase my projects.
 
-# Files Included
+### Project Setup
+Create the following Root folders:
+*index.html
+*about.html
+*contact.html
+*project.html
 
-* index.html
-* main.css in css folder
-* main.js
-* img folder
-* scss folder
+### Sass Installations
+Visit the docs `https://www.taniarascia.com/learn-sass-now/` and follow instructions on installations.
 
+### Sass
+ Create a SCSS folder in the root with the following files:
+ *config.scss
+ *home.scss
+ *menu.scss
+ *contact.scss
+ *projects.scss
+ *about.scss
+ *responsive.scss
+ *main.scss
 
-# URL
-
-* https://orienta-portfolio.netlify.com
+### Go Live 
+Click the Go Live button on the bottom-right of Visual Studio Code to see live project.
